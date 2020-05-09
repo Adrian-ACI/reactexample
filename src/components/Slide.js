@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { Carousel } from "react-bootstrap";
 
-import Slide1 from "../images/banner1.png";
-import Slide2 from "../images/banner4.png";
-import Slide3 from "../images/banner2.png";
+import Slide1 from "./images/banner1.png";
+import Slide2 from "./images/banner4.png";
+import Slide3 from "./images/banner2.png";
 
 export default class Slide extends Component {
   render() {
